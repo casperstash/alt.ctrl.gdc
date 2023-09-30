@@ -5,26 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-<<<<<<< Updated upstream
-      ticks: 638280993801504145
+      ticks: 638316926966051961
     m_Hash: 1350503555
-=======
-      ticks: 638277244080747410
-    m_Hash: 2645216202
->>>>>>> Stashed changes
   m_LockFileStatus:
     m_FilePath: C:/Users/clare/Desktop/SS 23/GDC/alt.ctrl.gdc/alt.ctrl.gdc/GDC/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-<<<<<<< Updated upstream
-      ticks: 638280994139832653
-    m_Hash: 3597224991
-=======
-      ticks: 638277244080757419
-    m_Hash: 3076755083
->>>>>>> Stashed changes
+      ticks: 638316926966061968
+    m_Hash: 360613020
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
